@@ -1,0 +1,36 @@
+This video shows some of the contributions to ICRA, the largest conference in the field of robotics and automation.
+See http://trailer.icra2016.org/ for more details about these clips and the other 3 episodes. Papers featured in this video:
+
+
+***
+
+Duckies can fly, walk, swim and dive. Likewise, this robot is able to fly and walk, by combining the body of a quadrotor, together with passive legs, which are not actively powered. The robot can walk down an inclined surface with its propeller motors turned off, and use the propellers to walk on flat surfaces and to fly.
+
+* "Dynamic Underactuated Flying-Walking (DUCK) Robot"
+Christopher J. Pratt and Kam K. Leang (University of Utah Robotics Center, University of Utah)
+
+***
+
+This robotic perception system can track fast objects with very high accuracy over a wide field of view, by using a 1000 frames-per-second camera and three mirrors that are actively controlled. In this clip, the system is tracking a flying duckie.
+
+* "Saccade Mirror 3: High-speed gaze controller with ultra wide gaze control range using triple rotational mirrors" 
+Kazuhisa Iida, Hiromasa Oku (Gunma University)
+
+***
+
+This work develops an algorithm to allow a drone to pick up an object while in flight. Optimizing the trajectory is especially challenging because of the interaction of the dynamics of flight and the dynamics of an articulated manipulator.
+
+* "Trajectory Generation for Quadrotor based Systems using Numerical Optimal Control" 
+Mathieu Geisert, Nicolas Mansard (LAAS-CNRS)
+
+***
+
+This is the “flying monkey”, a robot that can fly, walk, and grasp. This new robotic platform merges one of the world’s smallest quadrotor aircraft with a lightweight, simple walking mechanism and a gripper to enable all three functions in a 30g package.  
+
+* "The Flying Monkey: a Mesoscale Robot that can Run, Fly, and Grasp" 
+Yash Mulgaonkar, Brandon Araki, Je-sung Koh, Luis Guerrero-Bonilla, Daniel M. Aukes, Anurag Makineni, Michael T. Tolley, Daniela Rus, Robert J. Wood, Vijay Kumar (UPenn, Harvard, MIT, UCSD)
+
+
+***
+
+Media contact: icra2016.media@gmail.com
